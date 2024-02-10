@@ -1,0 +1,10 @@
+
+
+
+
+
+
+
+[DATA_NODE.DATA_NODE_1]
+storage_type = "pickle"
+scope = "SCENARIO:SCOPE"
