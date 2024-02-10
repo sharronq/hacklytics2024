@@ -1,3 +1,5 @@
-from taipy import Gui
+from Taipy import Gui
 
-Gui(page='#Getting started with *Taipy*').run()
+# import sys
+# sys.path.append("/Users/xiuwenzhu/opt/anaconda3/lib/python3.9/site-packages/taipy/core/taipy.py")
+
